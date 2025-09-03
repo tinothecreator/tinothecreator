@@ -1,8 +1,9 @@
 # Hi there! 👋 I'm Tinotenda Chirozvi
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Science+Student;Software+Developer;Project+Management+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
+<!-- <div align="center">
+  <div class="tenor-gif-embed" data-postid="27067905" data-share-method="host" data-aspect-ratio="1.28" data-width="100%"><a href="https://tenor.com/view/study-anime-gif-27067905">Study Anime GIF</a>from <a href="https://tenor.com/search/study+anime-gifs">Study Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div> -->
+
 
 ## 🚀 About Me
 
@@ -117,7 +118,7 @@ I'm always open to discussing new opportunities, collaborating on exciting proje
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tino-chirozvi-82879933a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinotchirozvi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tinothecreator)
 
