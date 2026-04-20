@@ -7,12 +7,12 @@
 
 ## 🚀 About Me
 
-I'm a final year Computer Science student at the **University of Pretoria**, passionate about building innovative software solutions and leading development teams. With hands-on experience across the software development lifecycle, I'm seeking opportunities in **project management**, **scrum master roles**, and **software development**.
+I'm a final year Computer Science student at the **University of Pretoria**, passionate about building innovative software solutions and leading development teams. With hands-on experience across the software development lifecycle, I'm seeking opportunities in **software development**, **scrum master roles**, and **cyber security**.
 
 - 🎓 **Education:** Computer Science, University of Pretoria
 - 🌍 **Location:** Pretoria, South Africa
-- 💼 **Focus Areas:** Software Development, Project Management, Agile Methodologies
-- 🔍 **Currently seeking:** Entry-level positions in PM, Scrum Master, and Software Development
+- 💼 **Focus Areas:** Software Development, Scrum Master, Cyber Security
+- 🔍 **Currently seeking:** Entry-level positions in Software Development , Scrum Master, and Cyber Security
 - 📧 **Contact:** tinotchirozvi@gmail.com
 - 📱 **Phone:** +27 61 821 5681
 
